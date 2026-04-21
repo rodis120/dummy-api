@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Morasko",
+        "trackType": "BIKE_TRACK",
+        "distance": 3.14,
+        "description": "Short compact bike route perfect for quick morning rides with gentle hills and tree-lined paths. Ideal for beginners or those looking for a quick workout. The trail winds through residential neighborhoods with well-maintained pavement and multiple rest stops along the way."
+    },
+    {
+        "name": "Piotrowo",
+        "trackType": "HIKING_TRACK",
+        "distance": 5.54,
+        "description": "Pleasant neighborhood hiking trail with moderate difficulty, suitable for experienced hikers seeking a balanced adventure. This trail features diverse terrain including stone pathways, forest passages, and open meadows. Weather can be unpredictable at higher elevations."
+    },
+    {
+        "name": "Malta Pond Loop",
+        "trackType": "BIKE_TRACK",
+        "distance": 8.2,
+        "description": "Scenic bike trail around Malta Pond with beautiful water views and moderate terrain. This loop offers excellent photography opportunities, wildlife viewing spots, and picnic areas. The park is well-maintained with bike repair stations and water fountains throughout the route."
+    },
+    {
+        "name": "Forest Ridge",
+        "trackType": "HIKING_TRACK",
+        "distance": 7.8,
+        "description": "Challenging trail through dense forest with significant elevation gain and multiple scenic lookout points. The terrain is rocky with some steep sections requiring good fitness. Several breathtaking vistas reward hikers at strategic viewpoints along the ridge."
+    },
+    {
+        "name": "Riverside Path",
+        "trackType": "BIKE_TRACK",
+        "distance": 12.5,
+        "description": "Long flat bike path following the river, perfect for beginners and casual riders looking for a leisurely experience. The path is fully paved with dedicated bike lanes and shade structures. Great for families, offering river views throughout and several cafes at convenient intervals."
+    },
+    {
+        "name": "Mountain Peak Trail",
+        "trackType": "HIKING_TRACK",
+        "distance": 9.3,
+        "description": "Steep mountain hike with rewarding summit views and natural spring water stops along the way. This challenging route requires proper hiking boots and stamina. The panoramic views from the peak span multiple valleys, making it an unforgettable experience for serious hikers."
+    },
+    {
+        "name": "Urban Commuter Route",
+        "trackType": "BIKE_TRACK",
+        "distance": 6.7,
+        "description": "City bike path connecting downtown to residential areas with clear signage and traffic management. Designed for daily commuters with convenient stops near public transportation. The route is well-lit at night and includes secure bike parking facilities at both endpoints."
+    },
+    {
+        "name": "Meadow Valley Walk",
+        "trackType": "HIKING_TRACK",
+        "distance": 4.2,
+        "description": "Easy family-friendly trail through wildflower meadows with minimal elevation change, perfect for young children and seniors. Spring blooms attract numerous butterflies and birds for wildlife enthusiasts. The path includes shaded rest areas and interpretive signs explaining local flora and fauna."
+    }
+]
