@@ -1,6 +1,6 @@
 [
     {
-        "id": 10114763772576619844,
+        "id": 1011476377257,
         "name": "Morasko",
         "trackType": "BIKE_TRACK",
         "distance": 3.14,
@@ -8,7 +8,7 @@
         "imageUrl": "https://raw.githubusercontent.com/rodis120/dummy-api/refs/heads/main/images/tourists-riding-bicycle-meadow-with-beautiful-landscape.jpg"
     },
     {
-        "id": 26101067665544015,
+        "id": 2610106766554,
         "name": "Piotrowo",
         "trackType": "HIKING_TRACK",
         "distance": 5.54,
@@ -16,7 +16,7 @@
         "imageUrl": "https://raw.githubusercontent.com/rodis120/dummy-api/refs/heads/main/images/wonderful-view-ukrainian-carpathian-mountains-fog.jpg"
     },
     {
-        "id": 16210280759950276959,
+        "id": 1621028075995,
         "name": "Malta Pond Loop",
         "trackType": "BIKE_TRACK",
         "distance": 8.2,
@@ -24,7 +24,7 @@
         "imageUrl": "https://raw.githubusercontent.com/rodis120/dummy-api/refs/heads/main/images/tom-jur-TecP6VNueY0-unsplash.jpg"
     },
     {
-        "id": 3376923783126945111,
+        "id": 337692378312,
         "name": "Forest Ridge",
         "trackType": "HIKING_TRACK",
         "distance": 7.8,
@@ -32,7 +32,7 @@
         "imageUrl": "https://raw.githubusercontent.com/rodis120/dummy-api/refs/heads/main/images/pexels-asumaani-33089275.jpg"
     },
     {
-        "id": 10532567275756409245,
+        "id": 105325672757,
         "name": "Riverside Path",
         "trackType": "BIKE_TRACK",
         "distance": 12.5,
@@ -40,7 +40,7 @@
         "imageUrl": "https://raw.githubusercontent.com/rodis120/dummy-api/refs/heads/main/images/pexels-michael-porter-8335405-6054638.jpg"
     },
     {
-        "id": 10072299794745110677,
+        "id": 100722997947,
         "name": "Mountain Peak Trail",
         "trackType": "HIKING_TRACK",
         "distance": 9.3,
@@ -48,7 +48,7 @@
         "imageUrl": "https://raw.githubusercontent.com/rodis120/dummy-api/refs/heads/main/images/wonderful-landscape-ukrainian-carpathian-mountains.jpg"
     },
     {
-        "id": 16032757843627286855,
+        "id": 1603275784362,
         "name": "Urban Commuter Route",
         "trackType": "BIKE_TRACK",
         "distance": 6.7,
@@ -56,7 +56,7 @@
         "imageUrl": "https://raw.githubusercontent.com/rodis120/dummy-api/refs/heads/main/images/pexels-pho-tomass-883344227-33535726.jpg"
     },
     {
-        "id": 10170635868717946792,
+        "id": 101706358687179,
         "name": "Meadow Valley Walk",
         "trackType": "HIKING_TRACK",
         "distance": 4.2,
